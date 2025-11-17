@@ -1,0 +1,333 @@
+1S 2025-2026
+Course Code,Course Title,Units,Section,Times,Days,Rooms
+CMSC 12,Foundations of Computer Science,3,G,4:00-5:00,WF,EAA LH (D-206)
+CMSC 12,Foundations of Computer Science,3,G-1L,7:00-10:00,Tues,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,G-2L,10:00-1:00,Tues,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,G-3L,4:00-7:00,Tues,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,G-4L,10:00-1:00,Wed,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,G-5L,7:00-10:00,Thurs,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,G-6L,10:00-1:00,Thurs,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,Y,4:00-5:00,TTh,EAA LH (D-206)
+CMSC 12,Foundations of Computer Science,3,Y-1L,10:00-1:00,Tues,ICS PC 2 (D-203)
+CMSC 12,Foundations of Computer Science,3,Y-2L,1:00-4:00,Tues,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,Y-3L,10:00-1:00,Wed,ICS PC 2 (D-203)
+CMSC 12,Foundations of Computer Science,3,Y-4L,1:00-4:00,Wed,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,Y-5L,4:00-7:00,Wed,PhySci C-100
+CMSC 12,Foundations of Computer Science,3,Y-6L,10:00-1:00,Thurs,ICS PC 2 (D-203)
+CMSC 21,Fundamentals of Programming,3,UV,11:00-12:00,TTh,EAA LH (D-206)
+CMSC 21,Fundamentals of Programming,3,UV-1L,4:00-7:00,Tues,ICS PC 2 (D-203)
+CMSC 21,Fundamentals of Programming,3,UV-2L,4:00-7:00,Wed,ICS PC 2 (D-203)
+CMSC 21,Fundamentals of Programming,3,UV-3L,1:00-4:00,Thurs,PhySci C-100
+CMSC 22,Object Oriented Programming,3,UV,11:00-12:00,TTh,SMA LH (D-306)
+CMSC 22,Object Oriented Programming,3,UV-1L,1:00-4:00,Tues,ICS PC 2 (D-203)
+CMSC 22,Object Oriented Programming,3,UV-2L,4:00-7:00,Tues,ICS PC 3 (D-205)
+CMSC 22,Object Oriented Programming,3,UV-3L,4:00-7:00,Wed,ICS PC 6 (D-303)
+CMSC 22,Object Oriented Programming,3,UV-4L,4:00-7:00,Thurs,ICS PC 3 (D-205)
+CMSC 22,Object Oriented Programming,3,UV-5L,1:00-4:00,Fri,ICS PC 3 (D-205)
+CMSC 22,Object Oriented Programming,3,CD,11:00-12:00,WF,SMA LH (D-306)
+CMSC 22,Object Oriented Programming,3,CD-1L,1:00-4:00,Tues,ICS PC 3 (D-205)
+CMSC 22,Object Oriented Programming,3,CD-2L,1:00-4:00,Wed,ICS PC 3 (D-205)
+CMSC 22,Object Oriented Programming,3,CD-3L,4:00-7:00,Wed,ICS PC 3 (D-205)
+CMSC 22,Object Oriented Programming,3,CD-4L,1:00-4:00,Thurs,ICS PC 3 (D-205)
+CMSC 22,Object Oriented Programming,3,CD-5L,4:00-7:00,Fri,ICS PC 3 (D-205)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,A,7:00-8:00,WF,SMA LH (D-306)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,A-1L,10:00-1:00,Tues,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,A-2L,1:00-4:00,Tues,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,A-3L,10:00-1:00,Wed,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,A-4L,4:00-7:00,Wed,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,A-5L,1:00-4:00,Thurs,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,X,3:00-4:00,TTh,EAA LH (D-206)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,X-1L,4:00-7:00,Tues,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,X-2L,10:00-1:00,Thurs,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,X-3L,4:00-7:00,Thurs,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,X-4L,10:00-1:00,Fri,MMM LH (D-308)
+CMSC 56,Discrete Mathematical Structures in Computer Science I,3,X-5L,4:00-7:00,Fri,MMM LH (D-308)
+CMSC 100,Web Programming,3,EF,2:00-3:00,WF,EAA LH (D-206)
+CMSC 100,Web Programming,3,EF-1L,10:00-1:00,Mon,ICS PC 2 (D-203)
+CMSC 100,Web Programming,3,EF-2L,4:00-7:00,Mon,ICS PC 2 (D-203)
+CMSC 123,Data Structures,3,C,10:00-11:00,WF,SMA LH (D-306)
+CMSC 123,Data Structures,3,C-1L,10:00-1:00,Mon,ICS PC 3 (D-205)
+CMSC 123,Data Structures,3,C-2L,4:00-7:00,Mon,ICS PC 6 (D-303)
+CMSC 123,Data Structures,3,C-3L,10:00-1:00,Tues,ICS PC 3 (D-205)
+CMSC 123,Data Structures,3,C-4L,1:00-4:00,Thurs,ICS PC 2 (D-203)
+CMSC 123,Data Structures,3,C-5L,4:00-7:00,Fri,ICS PC 5 (D-204)
+CMSC 123,Data Structures,3,U,10:00-11:00,TTh,SMA LH (D-306)
+CMSC 123,Data Structures,3,U-1L,1:00-4:00,Tues,ICS PC 6 (D-303)
+CMSC 123,Data Structures,3,U-2L,10:00-1:00,Wed,ICS PC 6 (D-303)
+CMSC 123,Data Structures,3,U-3L,4:00-7:00,Wed,ICS PC 8 (D-302)
+CMSC 123,Data Structures,3,U-4L,4:00-7:00,Thurs,ICS PC 2 (D-203)
+CMSC 123,Data Structures,3,U-5L,1:00-4:00,Fri,ICS PC 7 (D-305)
+CMSC 124,Design and Implementation of Programming Languages,3,ST,8:00-9:00,TTh,EAA LH (D-206)
+CMSC 124,Design and Implementation of Programming Languages,3,ST-1L,4:00-7:00,Mon,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,ST-2L,10:00-1:00,Tues,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,ST-3L,4:00-7:00,Tues,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,ST-4L,1:00-4:00,Wed,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,ST-5L,4:00-7:00,Wed,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,ST-6L,10:00-1:00,Thurs,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,S,7:00-8:00,TTh,EAA LH (D-206)
+CMSC 124,Design and Implementation of Programming Languages,3,S-1L,10:00-1:00,Mon,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,S-2L,1:00-4:00,Thurs,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,S-3L,4:00-7:00,Thurs,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,S-4L,1:00-4:00,Fri,ICS PC 4 (D-202)
+CMSC 124,Design and Implementation of Programming Languages,3,S-5L,4:00-7:00,Fri,ICS PC 4 (D-202)
+CMSC 125,Operating Systems,3,B,9:00-10:00,WF,EAA LH (D-206)
+CMSC 125,Operating Systems,3,B-1L,10:00-1:00,Mon,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,B-2L,10:00-1:00,Tues,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,B-3L,4:00-7:00,Tues,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,B-4L,1:00-4:00,Wed,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,B-5L,4:00-7:00,Wed,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,B-6L,10:00-1:00,Thurs,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,C,10:00-11:00,WF,EAA LH (D-206)
+CMSC 125,Operating Systems,3,C-1L,4:00-7:00,Mon,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,C-2L,1:00-4:00,Tues,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,C-3L,1:00-4:00,Thurs,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,C-4L,4:00-7:00,Thurs,ICS PC 9 (D-304)
+CMSC 125,Operating Systems,3,C-5L,1:00-4:00,Fri,ICS PC 9 (D-304)
+CMSC 130,Logic Design and Digital Computer Circuits,3,ST,8:00-9:00,TTh,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,ST-1L,4:00-7:00,Mon,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,ST-2L,4:00-7:00,Tues,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,ST-3L,1:00-4:00,Wed,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,ST-4L,4:00-7:00,Thurs,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,ST-5L,4:00-7:00,Fri,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,T,9:00-10:00,TTh,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,T-1L,1:00-4:00,Tues,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,T-2L,1:00-4:00,Wed,MMM LH (D-308)
+CMSC 130,Logic Design and Digital Computer Circuits,3,T-3L,4:00-7:00,Wed,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,T-4L,1:00-4:00,Thurs,SMA LH (D-306)
+CMSC 130,Logic Design and Digital Computer Circuits,3,T-5L,1:00-4:00,Fri,MMM LH (D-308)
+CMSC 132,Computer Architecture,3,AB,8:00-9:00,WF,EAA LH (D-206)
+CMSC 132,Computer Architecture,3,AB-1L,10:00-1:00,Mon,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,AB-2L,1:00-4:00,Mon,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,AB-3L,10:00-1:00,Tues,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,AB-4L,1:00-4:00,Wed,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,AB-5L,10:00-1:00,Thurs,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,AB-6L,4:00-7:00,Thurs,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,A,7:00-8:00,WF,EAA LH (D-206)
+CMSC 132,Computer Architecture,3,A-1L,7:00-10:00,Mon,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,A-2L,1:00-4:00,Tues,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,A-3L,4:00-7:00,Tues,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,A-4L,1:00-4:00,Thurs,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,A-5L,1:00-4:00,Fri,ICS PC 8 (D-302)
+CMSC 132,Computer Architecture,3,A-6L,4:00-7:00,Fri,ICS PC 8 (D-302)
+CMSC 141,Automata and Language Theory,3,D,12:00-1:00,WF,EAA LH (D-206)
+CMSC 141,Automata and Language Theory,3,D-1L,1:00-4:00,Mon,ICS PC 7 (D-305)
+CMSC 141,Automata and Language Theory,3,D-2L,4:00-7:00,Mon,ICS PC 8 (D-302)
+CMSC 141,Automata and Language Theory,3,D-3L,10:00-1:00,Tues,ICS PC 7 (D-305)
+CMSC 141,Automata and Language Theory,3,D-4L,1:00-4:00,Wed,ICS PC 7 (D-305)
+CMSC 141,Automata and Language Theory,3,D-5L,10:00-1:00,Thurs,ICS PC 7 (D-305)
+CMSC 141,Automata and Language Theory,3,D-6L,4:00-7:00,Thurs,PhySci C-100
+CMSC 141,Automata and Language Theory,3,CD,11:00-12:00,WF,EAA LH (D-206)
+CMSC 141,Automata and Language Theory,3,CD-1L,1:00-4:00,Tues,ICS PC 7 (D-305)
+CMSC 141,Automata and Language Theory,3,CD-2L,4:00-7:00,Tues,ICS PC 7 (D-305)
+CMSC 141,Automata and Language Theory,3,CD-3L,4:00-7:00,Wed,ICS PC 7 (D-305)
+CMSC 141,Automata and Language Theory,3,CD-4L,1:00-4:00,Fri,ICS PC 2 (D-203)
+CMSC 141,Automata and Language Theory,3,CD-5L,4:00-7:00,Fri,ICS PC 9 (D-304)
+CMSC 142,Design and Analysis of Algorithms,3,WX,2:00-3:00,TTh,EAA LH (D-206)
+CMSC 142,Design and Analysis of Algorithms,3,WX-1L,1:00-4:00,Wed,ICS PC 2 (D-203)
+CMSC 150,Numerical and Symbolic Computations,3,AB,8:00-9:00,WF,SMA LH (D-306)
+CMSC 150,Numerical and Symbolic Computations,3,AB-1L,4:00-7:00,Tues,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,AB-2L,10:00-1:00,Wed,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,AB-3L,1:00-4:00,Wed,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,AB-4L,1:00-4:00,Thurs,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,AB-5L,10:00-1:00,Fri,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,B,9:00-10:00,WF,SMA LH (D-306)
+CMSC 150,Numerical and Symbolic Computations,3,B-1L,10:00-1:00,Tues,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,B-2L,1:00-4:00,Tues,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,B-3L,4:00-7:00,Wed,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,B-4L,4:00-7:00,Thurs,ICS PC 5 (D-205)
+CMSC 150,Numerical and Symbolic Computations,3,B-5L,1:00-4:00,Fri,ICS PC 5 (D-205)
+CMSC 165,Digital Image Processing,3,U,10:00-11:00,TTh,EAA LH (D-206)
+CMSC 165,Digital Image Processing,3,U-1L,1:00-4:00,Mon,ICS PC 6 (D-303)
+CMSC 165,Digital Image Processing,3,U-2L,10:00-1:00,Wed,ICS PC 7 (D-305)
+CMSC 165,Digital Image Processing,3,U-3L,1:00-4:00,Thurs,ICS PC 7 (D-305)
+CMSC 165,Digital Image Processing,3,U-4L,7:00-10:00,Fri,ICS PC 7 (D-305)
+CMSC 170,Introduction to Artificial Intelligence,3,EF,1:00-3:00,Mon,EAA LH (D-206)
+CMSC 170,Introduction to Artificial Intelligence,3,EF-1L,4:00-7:00,Tues,ICS PC 6 (D-303)
+CMSC 170,Introduction to Artificial Intelligence,3,EF-2L,1:00-4:00,Wed,ICS PC 6 (D-303)
+CMSC 170,Introduction to Artificial Intelligence,3,EF-3L,10:00-1:00,Thurs,ICS PC 6 (D-303)
+CMSC 170,Introduction to Artificial Intelligence,3,EF-4L,4:00-7:00,Fri,ICS PC 6 (D-303)
+CMSC 170,Introduction to Artificial Intelligence,3,EF-5L,4:00-7:00,Fri,ICS PC 7 (D-305)
+CMSC 170,Introduction to Artificial Intelligence,3,GH,4:00-6:00,Mon,EAA LH (D-206)
+CMSC 170,Introduction to Artificial Intelligence,3,GH-1L,10:00-1:00,Mon,ICS PC 6 (D-303)
+CMSC 170,Introduction to Artificial Intelligence,3,GH-2L,10:00-1:00,Tues,ICS PC 6 (D-303)
+CMSC 170,Introduction to Artificial Intelligence,3,GH-3L,1:00-4:00,Tues,ICS PC 4 (D-202)
+CMSC 170,Introduction to Artificial Intelligence,3,GH-4L,10:00-1:00,Thurs,ICS PC 3 (D-205)
+CMSC 170,Introduction to Artificial Intelligence,3,GH-5L,4:00-7:00,Thurs,ICS PC 6 (D-303)
+CMSC 170,Introduction to Artificial Intelligence,3,GH-6L,1:00-4:00,Fri,ICS PC 6 (D-303)
+CMSC 180,Introduction to Parallel Computing,3,BC,9:00-11:00,Mon,EAA LH (D-206)
+CMSC 180,Introduction to Parallel Computing,3,BC-1L,10:00-1:00,Wed,ICS PC 9 (D-304)
+CMSC 180,Introduction to Parallel Computing,3,BC-2L,10:00-1:00,Fri,ICS PC 9 (D-304)
+CMSC 190,Special Problems,1,A1(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A2(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A3(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A4(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A5(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A6(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A7(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A8(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A9(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A10(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A11(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A12(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A13(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A14(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A15(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A16(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A17(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A18(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A19(1),TBA,TBA,TBA
+CMSC 190,Special Problems,1,A20(1),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B1(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B2(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B3(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B4(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B5(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B6(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B7(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B8(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B9(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B10(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B11(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B12(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B13(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B14(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B15(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B16(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B17(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B18(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B19(2),TBA,TBA,TBA
+CMSC 190,Special Problems,2,B20(2),TBA,TBA,TBA
+CMSC 191,Special Topics,3,EF1,1:00-4:00,Mon,ICS PC 9 (D-304)
+CMSC 191,Special Topics,3,CD,10:00-1:00,Fri,ICS PC 7 (D-305)
+CMSC 199,Undergraduate Seminar,1,AB1,8:00-9:00,Mon,SMA LH (D-306)
+CMSC 199,Undergraduate Seminar,1,AB2,8:00-9:00,Mon,MMM LH (D-308)
+CMSC 199,Undergraduate Seminar,1,B1,9:00-10:00,Mon,SMA LH (D-306)
+CMSC 199,Undergraduate Seminar,1,B2,9:00-10:00,Mon,MMM LH (D-308)
+CMSC 199,Undergraduate Seminar,1,C1,10:00-11:00,Mon,SMA LH (D-306)
+CMSC 199,Undergraduate Seminar,1,C2,10:00-11:00,Mon,MMM LH (D-308)
+CMSC 199,Undergraduate Seminar,1,CD1,11:00-12:00,Mon,SMA LH (D-306)
+CMSC 199,Undergraduate Seminar,1,CD2,11:00-12:00,Mon,MMM LH (D-308)
+CMSC 200,Undergraduate Thesis,1,A1(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A2(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A3(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A4(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A5(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A6(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A7(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A8(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A9(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A10(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A11(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A12(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A13(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A14(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A15(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A16(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A17(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A18(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,1,A19(1),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C1(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C2(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C3(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C4(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C5(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C6(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C7(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C8(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C9(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C10(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C11(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C12(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C13(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C14(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C15(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C16(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C17(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C18(3),TBA,TBA,TBA
+CMSC 200,Undergraduate Thesis,3,C19(3),TBA,TBA,TBA
+CMSC 215,Advanced Computer Systems,3,WX,1:00-4:00,Sat,PhySci C-100
+CMSC 227,Advanced Database Systems,3,WX,1:00-4:00,Tues,ICS PC 1 (D-201)
+CMSC 241,Formal Languages Automata Theory and Computations,3,EF,1:00-4:00,Wed,ICS PC 1 (D-201)
+CMSC 244,Algorithms and Advanced Data Structures I,3,AB,8:00-9:30,WF,PhySci C-100
+CMSC 271,Management Information Systems,3,YZ,4:00-7:00,Tues,ICS PC 1 (D-201)
+CMSC 280,Parallel Processing,3,GH,4:00-7:00,Wed,ICS PC 1 (D-201)
+CMSC 291,Special Topics,3,CD,10:00-1:00,Fri,ICS PC 1 (D-201)
+CMSC 291,Special Topics,3,GH,4:00-7:00,Wed,GS Room (D-301)
+CMSC 299,Graduate Seminar,1,B,9:00-10:00,Tues,ICS PC 1 (D-201)
+CMSC 300,Master's Thesis,1,A1(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,1,A2(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,1,A3(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,1,A4(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,1,A5(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,1,A6(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,1,A7(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,1,A8(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,1,A9(1),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B1(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B2(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B3(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B4(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B5(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B6(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B7(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B8(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,2,B9(2),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C1(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C2(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C3(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C4(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C5(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C6(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C7(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C8(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,3,C9(3),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F1(6),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F2(6),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F3(6),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F4(6),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F5(6),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F6(6),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F7(6),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F8(6),TBA,TBA,TBA
+CMSC 300,Master's Thesis,6,F9(6),TBA,TBA,TBA
+CMSC 342,Computational Complexity Theory,3,CD,10:00-1:00,Wed,ICS PC 1 (D-201)
+CMSC 399,Graduate Seminar,1,AB,8:00-9:00,Tues,ICS PC 1 (D-201)
+CMSC 400,Doctoral Dissertation,1,A1(1),TBA,TBA,TBA
+CMSC 400,Doctoral Dissertation,2,B1(2),TBA,TBA,TBA
+CMSC 400,Doctoral Dissertation,3,C1(3),TBA,TBA,TBA
+CMSC 400,Doctoral Dissertation,4,D1(4),TBA,TBA,TBA
+CMSC 400,Doctoral Dissertation,6,F1(6),TBA,TBA,TBA
+CMSC 400,Doctoral Dissertation,12,L1(12),TBA,TBA,TBA
+IT 210,Web Application Development,3,EF,2:00-4:00,Mon,ICS PC 1 (D-201)
+IT 210,Web Application Development,3,EF-1L,4:00-7:00,Thurs,ICS PC 7 (D-305)
+IT 226,Enterprise Information Systems,3,YZ,3:00-6:00,Thurs,ICS PC 1 (D-201)
+IT 238,Networking and Client/Server Computing,3,EF,2:00-4:00,Fri,ICS PC 1 (D-201)
+IT 238,Networking and Client/Server Computing,3,EF-1L,4:00-7:00,Fri,ICS PC 1 (D-201)
+IT 295,IT-Based Application Project,1,A1(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,1,A2(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,1,A3(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,1,A4(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,1,A5(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,1,A6(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,1,A7(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,1,A8(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,1,A9(1),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B1(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B2(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B3(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B4(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B5(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B6(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B7(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B8(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,2,B9(2),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D1(4),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D2(4),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D3(4),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D4(4),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D5(4),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D6(4),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D7(4),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D8(4),TBA,TBA,TBA
+IT 295,IT-Based Application Project,4,D9(4),TBA,TBA,TBA
+IT 299,Graduate Seminar,1,C,10:00-11:00,Tues,ICS PC 1 (D-201)

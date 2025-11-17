@@ -1,0 +1,6 @@
+course_code,course_name,units,description
+CMSC 341,Advanced Theory of Computation,3,"Recursive function theory, computability, and decidability. 3 hrs (class). Prerequisite: CMSC 241. Offered during First Semester."
+CMSC 342,Computational Complexity Theory,3,"Time and space complexities of algorithms. 3 hrs (class). Prerequisite: CMSC 245. Offered during Second Semester."
+CMSC 391,Special Topics,1-3,"May be taken twice provided that the total number of units to be credited to the student’s program will not exceed 4 units. Prerequisite: COI. Offered during First and Second Semesters."
+CMSC 399,Graduate Seminar,1,"Presentation and discussion of advanced research in computer science. Prerequisite: COI. Offered during First and Second Semesters."
+CMSC 400,Doctoral Dissertation,12,"Independent and original research leading to a doctoral dissertation under faculty supervision. Prerequisite: COI. Offered during First Semester, Second Semester, and Midyear."

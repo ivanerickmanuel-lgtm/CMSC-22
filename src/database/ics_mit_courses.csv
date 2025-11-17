@@ -1,0 +1,8 @@
+course_code,course_name,units,description
+IT 210,Web Application Development,3,"WWW programming, Internet and Intranet applications development, designing and building active server pages and other integrated web-based solutions. 5 hrs (2 class, 3 lab). Prerequisite: CMSC 100 or COI. Offered during First Semester."
+IT 226,Enterprise Information Systems,3,"Framework of information systems in organizations, enterprise process modeling, and development of collaborative enterprise systems using IT tools and other enabling technologies. 3 hrs (class). Prerequisite: COI. Offered during First Semester."
+IT 227,E-Commerce Technologies,3,"Fundamental concepts and applications of e-commerce technologies. 5 hrs (2 class, 3 lab). Prerequisite: IT 210 and IT 226 or COI. Offered during Second Semester."
+IT 238,Networking and Client/Server Computing,3,"Client/Server computing techniques, system design, software, and applications. 5 hrs (2 class, 3 lab). Prerequisite: CMSC 137 or COI. Offered during First Semester."
+IT 280,Internet Security,3,"Algorithms, IT solutions, and security issues associated with developing applications for the Internet. 5 hrs (2 class, 3 lab). Prerequisite: IT 238 or COI. Offered during First Semester."
+IT 295,IT-Based Application Project,6,"Supervised project on the design and development of IT-based applications. Prerequisite: COI. Offered during First Semester, Second Semester, and Midyear."
+IT 299,Graduate Seminar,1,"Seminar on current topics in Information Technology. Prerequisite: COI. Offered during First Semester and Second Semester."
